@@ -118,7 +118,7 @@ export default function Navbar() {
                 ref={ref}
                 className="px-2 pt-2 pb-3 space-y-8 text-center sm:px-3"
               >
-                <Link href="/">
+                <Link href="/about">
                   <a className="text-slate-900 hover:bg-orange-800 hover:text-white block px-3 py-2 rounded-md text-sm font-bold">
                     About Me
                   </a>
